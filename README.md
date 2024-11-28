@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @mhmdzulfikar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning programming language
 
 # Halo, Saya Muhamad Zulfikar 👋
 
@@ -14,15 +11,20 @@ Selamat datang di profil GitHub saya! Saya seorang pengembang perangkat lunak ya
 ---
 
 ## 🛠️ Kemampuan Pemrograman
+<!--
 - Bahasa Pemrograman:
   - ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  
-- Pengembangan Web:
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  -->
+## 🌐 Pengembangan Web
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
   
 - Pengembangan Mobile:
   - ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
