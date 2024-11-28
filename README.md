@@ -25,7 +25,7 @@ Selamat datang di profil GitHub saya! Saya seorang pengembang perangkat lunak ya
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
   
-- Pengembangan Mobile:
+## 📱 Pengembangan Mobile:
    ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
