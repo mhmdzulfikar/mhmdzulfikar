@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+There+i'm+MUHAMAD+ZULFIKAR+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<img src="[https://giphy.com/gifs/pixel-art-jeff-iiJ870TcI3PZKxatzS](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3phMzQzZDYzczEzazNrM2xyMXE3ZGQyOHQ5bWxpdWd4cHJvMjg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.webp)" width="800" />
+<img src="[https://giphy.com/gifs/pixel-art-jeff-iiJ870TcI3PZKxatzS]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3phMzQzZDYzczEzazNrM2xyMXE3ZGQyOHQ5bWxpdWd4cHJvMjg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.webp" width="800" />
 
 
 
