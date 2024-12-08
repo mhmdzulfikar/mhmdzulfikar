@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+There+i'm+MUHAMAD+ZULFIKAR)](https://git.io/typing-svg)
 
 ## 🌐 Sosial Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-anda)
