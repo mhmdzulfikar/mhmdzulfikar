@@ -3,17 +3,13 @@
 
 
 
-    ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f37612f62392f65313761623936383162656333363330336136376364306531336137623137302e676966](https://github.com/user-attachments/assets/e304a913-df5b-41d3-af77-3128c61c792a)
+
 
 
 ## 🌐 Sosial Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-anda)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nama_anda)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/nama_anda)
-
----
-
-
 ## Skill
 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
