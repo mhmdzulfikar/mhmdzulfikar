@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+There+i'm+MUHAMAD+ZULFIKAR+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/ea25f616-4fc0-480f-8568-ca13ce0966d4)
+<img src="![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/ea25f616-4fc0-480f-8568-ca13ce0966d4)" width="800" />
+
+
 
 
 
