@@ -1,6 +1,11 @@
 
-# Hii, i'm Muhamad Zulfikar 👋
-https://camo.githubusercontent.com/8580bf2fee46beb219b0f1e6e16572accc9f03d4ac4c2829862496983b912a4d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f37612f62392f65313761623936383162656333363330336136376364306531336137623137302e676966
+# Hii, I'm Muhamad Zulfikar 👋
+
+![Typing Animation](https://link-to-your-gif.com/typing.gif)
+
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f37612f62392f65313761623936383162656333363330336136376364306531336137623137302e676966](https://github.com/user-attachments/assets/e304a913-df5b-41d3-af77-3128c61c792a)
+
 
 ## 🌐 Sosial Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-anda)
