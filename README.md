@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+There+i'm+MUHAMAD+ZULFIKAR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+There+i'm+MUHAMAD+ZULFIKAR+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-## 🌐 Sosial Media
+
+## Sosial Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-anda)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nama_anda)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/nama_anda)
