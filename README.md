@@ -16,6 +16,6 @@
 
 ---
 
-## 📊 Statistik GitHub Saya
+## 📊 GITHUB STATS 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdzulfikar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdzulfikar&layout=compact&langs_count=6&theme=highcontrast&hide_border=true)
