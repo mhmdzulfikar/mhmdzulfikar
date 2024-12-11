@@ -20,5 +20,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdzulfikar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdzulfikar&layout=compact&langs_count=6&theme=highcontrast&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdzulfikar&layout=compact&theme=chartreuse-dark&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhmdzulfikar&layout=compact&theme=chartreuse-dark&hide_border=true)
+
 
