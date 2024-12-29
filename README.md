@@ -2,9 +2,7 @@
 
 ![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/00474ad1-0510-4075-9fe6-97eda9a26546)
 
-
-
-## Skill
+---
 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
