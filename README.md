@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+Welcome+to+My+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+Welcome+to+My+GitHub!)](https://git.io/typing-svg) style="width: 100%; max-width: 100%;
 
 ![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/00474ad1-0510-4075-9fe6-97eda9a26546)
 
