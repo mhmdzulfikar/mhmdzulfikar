@@ -5,5 +5,20 @@
 </p>
 
 
+I'm an Informatics student passionate about building interactive web applications. Currently deepening my skills in **React Ecosystem** and **TypeScript**.
+
+🛠️ **Tech Stack**
+* **Languages:** TypeScript, JavaScript (ES6+), MySQL, SQL
+* **Frontend:** React, Tailwind CSS, HTML5/CSS3
+* **Backend:** Express.js, Node.js
+* **Tools:** Git, Postman, VS Code
+
+🌱 **Currently Learning**
+* Advanced React Patterns & Performance
+* System Design Basics
+
+📫 **Connect with Me**
+* [LinkedIn](---)
+* [Email](mailto:zulfikarmuhamad207@gmail.com)
 
 
