@@ -29,7 +29,6 @@ name: Waka Readme
 
 on:
   schedule:
-    # Jalan tiap jam 12 malam UTC
     - cron: '0 0 * * *' 
   workflow_dispatch:
 
