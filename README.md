@@ -24,23 +24,3 @@ I'm an Informatics student passionate about building interactive web application
 
 ---
 
-
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_d4e1e371-22b8-4d6a-9cf2-695fa8b5200f }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "False"
