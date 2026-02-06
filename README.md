@@ -22,3 +22,26 @@ I'm an Informatics student passionate about building interactive web application
 * [Email](mailto:zulfikarmuhamad207@gmail.com)
 
 
+
+
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Jalan tiap jam 12 malam UTC
+    - cron: '0 0 * * *' 
+  workflow_dispatch: # Biar bisa di-klik run manual
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True" # Ini biar keliatan lagi ngerjain Project apa
+          SHOW_EDITORS: "False"
