@@ -19,8 +19,7 @@ I'm an Informatics student passionate about building interactive web application
 
 📫 **Connect with Me**
 * [LinkedIn](---)
+...
 * [Email](mailto:zulfikarmuhamad207@gmail.com)
 
-
 ---
-
