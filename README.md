@@ -24,4 +24,7 @@ I'm an Informatics student passionate about building interactive web application
 
 ---
 
-`<! -- START_SECTION:waka -- > <! -- END_SECTION:waka -- >`
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
