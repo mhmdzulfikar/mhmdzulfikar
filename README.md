@@ -23,6 +23,7 @@ I'm an Informatics student passionate about building interactive web application
 * [Email](mailto:zulfikarmuhamad207@gmail.com)
 
 ---
-<>
 
-``
+```
+
+---
