@@ -24,6 +24,4 @@ I'm an Informatics student passionate about building interactive web application
 
 ---
 
-```
-
----
+``
