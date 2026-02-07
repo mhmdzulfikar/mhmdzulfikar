@@ -27,4 +27,69 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 53.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌆 Daytime                121 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌃 Evening                130 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Sunday                   95 commits          ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/02/2026 02:28:59 UTC
 <!--END_SECTION:waka-->
