@@ -29,13 +29,13 @@ I'm an Informatics student passionate about building interactive web application
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-232-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.5 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +46,21 @@ I'm an Informatics student passionate about building interactive web application
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                60 commits          ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-🌆 Daytime                75 commits          ████████░░░░░░░░░░░░░░░░░   33.63 % 
-🌃 Evening                86 commits          ██████████░░░░░░░░░░░░░░░   38.57 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌞 Morning                60 commits          ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌆 Daytime                75 commits          ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌃 Evening                87 commits          ██████████░░░░░░░░░░░░░░░   38.84 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Wednesday                46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Thursday                 39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Sunday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Wednesday                46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Thursday                 39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Sunday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
 
@@ -70,10 +70,10 @@ Sunday                   34 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+projecttodolist-fullstack2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 06:45:21 UTC
+ Last Updated on 09/02/2026 01:51:24 UTC
 <!--END_SECTION:waka-->
