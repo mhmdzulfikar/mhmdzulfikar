@@ -27,9 +27,9 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,13 +70,12 @@ Sunday                   38 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               10 hrs 27 mins      █████████████████████████   99.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               9 hrs 26 mins       █████████████████████████   100.00 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-magang-hunter            10 hrs 28 mins      █████████████████████████   100.00 % 
+magang-hunter            9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 01:49:48 UTC
+ Last Updated on 24/02/2026 01:46:46 UTC
 <!--END_SECTION:waka-->
