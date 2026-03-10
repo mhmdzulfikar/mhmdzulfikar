@@ -27,7 +27,7 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,15 +70,14 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               12 hrs 56 mins      ███████████████████████░░   90.64 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JavaScript               13 hrs              ███████████████████████░░   92.31 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-MagangHunter-Fullstack   13 hrs 38 mins      ████████████████████████░   95.61 % 
-magang-hunter            37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+MagangHunter-Fullstack   14 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2026 01:48:22 UTC
+ Last Updated on 10/03/2026 01:29:56 UTC
 <!--END_SECTION:waka-->
