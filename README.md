@@ -70,13 +70,10 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               2 hrs 4 mins        ████████████████████░░░░░   81.52 % 
-Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JavaScript               44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MagangHunter-Fullstack   2 hrs 32 mins       █████████████████████████   100.00 % 
+MagangHunter-Fullstack   44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 01:47:49 UTC
+ Last Updated on 18/03/2026 01:52:03 UTC
 <!--END_SECTION:waka-->
