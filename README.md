@@ -70,10 +70,11 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ██████████████████████░░░   87.76 % 
+HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WPU-COURSE-2026-REACT    12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +94,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 01:51:25 UTC
+ Last Updated on 26/03/2026 01:57:23 UTC
 <!--END_SECTION:waka-->
