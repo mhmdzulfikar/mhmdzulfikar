@@ -27,7 +27,7 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,12 +70,11 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               34 mins             ███████████████████░░░░░░   76.09 % 
-PHP                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+JavaScript               37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          34 mins             ███████████████████░░░░░░   76.09 % 
-slims9_bulian-9.7.2      10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Unknown Project          34 mins             ███████████████████████░░   92.18 % 
+bootcamp-ramadhan-2025-ma2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +94,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2026 01:59:31 UTC
+ Last Updated on 08/04/2026 02:00:31 UTC
 <!--END_SECTION:waka-->
