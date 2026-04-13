@@ -27,7 +27,7 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,15 +70,17 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               56 mins             █████████████████████████   98.89 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               2 hrs 26 mins       ██████████████████░░░░░░░   72.07 % 
+Bash                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-Unknown Project          34 mins             ███████████████░░░░░░░░░░   60.39 % 
-MagangHunter-Fullstack   19 mins             ████████░░░░░░░░░░░░░░░░░   33.37 % 
-bootcamp-ramadhan-2025-ma2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-NEW_THINGS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+MagangHunter-Fullstack   2 hrs 45 mins       ████████████████████░░░░░   81.24 % 
+Unknown Project          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+bootcamp-ramadhan-2025-ma2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+NEW_THINGS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,5 +100,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 02:07:01 UTC
+ Last Updated on 13/04/2026 02:11:09 UTC
 <!--END_SECTION:waka-->
