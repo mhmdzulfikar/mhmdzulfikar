@@ -27,7 +27,7 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,13 +35,13 @@ I'm an Informatics student passionate about building interactive web application
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2026
+> 🏆 73 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -70,18 +70,18 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      8 hrs 11 mins       █████████████████░░░░░░░░   67.73 % 
-JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Apache Config            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+PHP                      8 hrs 43 mins       ████████████████████░░░░░   78.59 % 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Apache Config            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-slims9_bulian-9.7.2      8 hrs 49 mins       ██████████████████░░░░░░░   73.03 % 
-MagangHunter-Fullstack   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-wa_service               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-lib                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-config                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+slims9_bulian-9.7.2      9 hrs 21 mins       █████████████████████░░░░   84.43 % 
+wa_service               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+lib                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+src                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+config                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +101,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2026 02:30:24 UTC
+ Last Updated on 04/05/2026 02:28:47 UTC
 <!--END_SECTION:waka-->
