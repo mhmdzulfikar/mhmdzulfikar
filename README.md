@@ -27,6 +27,8 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -41,6 +43,42 @@ I'm an Informatics student passionate about building interactive web application
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73 commits          ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+🌆 Daytime                96 commits          ████████░░░░░░░░░░░░░░░░░   32.65 % 
+🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Thursday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Friday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+PHP                      1 hr 40 mins        █████████████████░░░░░░░░   66.93 % 
+Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Apache Config            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+
+🐱‍💻 Projects: 
+gov_shield               2 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -58,5 +96,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 02:50:42 UTC
+ Last Updated on 19/05/2026 02:47:44 UTC
 <!--END_SECTION:waka-->
