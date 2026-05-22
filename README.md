@@ -27,8 +27,6 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -70,9 +68,8 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      1 hr 40 mins        █████████████████░░░░░░░░   66.93 % 
-Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+PHP                      2 hrs 21 mins       ████████████████████████░   94.47 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 Apache Config            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
@@ -96,5 +93,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 02:51:16 UTC
+ Last Updated on 22/05/2026 02:51:33 UTC
 <!--END_SECTION:waka-->
