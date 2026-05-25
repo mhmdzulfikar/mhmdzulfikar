@@ -27,6 +27,8 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,15 +70,13 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      11 mins             ██████████████░░░░░░░░░░░   56.09 % 
-Markdown                 7 mins              █████████░░░░░░░░░░░░░░░░   35.21 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Other                    1 min               █████████████████████████   99.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-gov_shield               18 mins             ███████████████████████░░   91.30 % 
-Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Unknown Project          1 min               █████████████████████████   100.00 % 
 lexshield-app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -98,5 +98,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 02:47:54 UTC
+ Last Updated on 25/05/2026 02:56:38 UTC
 <!--END_SECTION:waka-->
