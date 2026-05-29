@@ -27,8 +27,6 @@ I'm an Informatics student passionate about building interactive web application
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2026%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -43,46 +41,6 @@ I'm an Informatics student passionate about building interactive web application
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                73 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌆 Daytime                101 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                122 commits         ██████████░░░░░░░░░░░░░░░   40.26 % 
-🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Thursday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Sunday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               58 mins             █████████████░░░░░░░░░░░░   50.57 % 
-Markdown                 31 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-🐱‍💻 Projects: 
-rt-005-community         1 hr 36 mins        █████████████████████░░░░   83.68 % 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-src                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-lexshield-app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -100,5 +58,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 02:46:22 UTC
+ Last Updated on 29/05/2026 02:46:25 UTC
 <!--END_SECTION:waka-->
