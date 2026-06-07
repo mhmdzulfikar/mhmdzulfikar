@@ -17,10 +17,12 @@ I'm an Informatics student passionate about building interactive web application
 * Advanced React Patterns & Performance
 * System Design Basics
 
-📫 **Connect with Me**
-* [LinkedIn](---)
-...
-* [Email](mailto:zulfikarmuhamad207@gmail.com)
+
+### 📫 Connect With Me
+I am always open to discussing technology, open-source projects, or professional opportunities.
+
+* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 📧 **Email:** [zulfikarmuhamad207@gmail.com](mailto:zulfikarmuhamad207@gmail.com)
 
 ---
 
