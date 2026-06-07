@@ -21,8 +21,9 @@ I'm an Informatics student passionate about building interactive web application
 ### 📫 Connect With Me
 I am always open to discussing technology, open-source projects, or professional opportunities.
 
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/muhamad-zulfikar-982575241](https://linkedin.com)
 * 📧 **Email:** [zulfikarmuhamad207@gmail.com](mailto:zulfikarmuhamad207@gmail.com)
+
 
 ---
 
