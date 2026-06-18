@@ -46,6 +46,39 @@ I am always open to discussing technology, open-source projects, or professional
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                79 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌆 Daytime                114 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌃 Evening                148 commits         ███████████░░░░░░░░░░░░░░   42.17 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                74 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Sunday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,5 +96,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 03:35:18 UTC
+ Last Updated on 18/06/2026 03:26:55 UTC
 <!--END_SECTION:waka-->
