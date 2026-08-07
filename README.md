@@ -30,17 +30,13 @@ I am always open to discussing technology, open-source projects, or professional
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2059%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 25.6 kB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -48,45 +44,6 @@ I am always open to discussing technology, open-source projects, or professional
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-🌆 Daytime                129 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌃 Evening                165 commits         ██████████░░░░░░░░░░░░░░░   41.56 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Tuesday                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Wednesday                82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,5 +61,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:05:23 UTC
+ Last Updated on 07/08/2026 02:25:23 UTC
 <!--END_SECTION:waka-->
