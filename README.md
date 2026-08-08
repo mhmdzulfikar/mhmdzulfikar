@@ -30,6 +30,10 @@ I am always open to discussing technology, open-source projects, or professional
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,6 +48,45 @@ I am always open to discussing technology, open-source projects, or professional
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌆 Daytime                135 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌃 Evening                168 commits         ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Tuesday                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Wednesday                85 commits          █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -61,5 +104,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mhmdzulfikar/mhmdzulfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:25:23 UTC
+ Last Updated on 08/08/2026 01:12:20 UTC
 <!--END_SECTION:waka-->
